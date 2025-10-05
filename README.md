@@ -8,7 +8,7 @@ Both versions share the same core logic so you don’t duplicate code.
 Features
 - Add, delete, list, and mark tasks complete
 - Persist tasks to `tasks.txt`
-- Search/filter tasks (if implemented)
+- Search/filter tasks
 - Simple, dependency-free Java (no frameworks)
 
 Project Structure
